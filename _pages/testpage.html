@@ -1,0 +1,100 @@
+---
+title: "Testing"
+permalink: "/testpage.html"
+---
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="xx">
+  <div class="zz">
+    <input type="text" class="input" placeholder="Search">
+    <i class="fa fa-search" aria-hidden="true"></i>
+  </div>
+</div>
+
+<style media="screen">
+  *{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #a6fcff;
+}
+
+.xx{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.zz{
+  width: 0px;
+  height: 50px;
+  background: #41484a;
+  text-align: center;
+  line-height: 45px;
+  padding-right: 50px;
+  transition: all 0.5s ease;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.input{
+  border: 0px;
+  border-bottom: 2px solid #fff;
+  background: transparent;
+  width: 0%;
+  padding: 5px 0;
+  outline: none;
+  color: #fff;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.zz .fa{
+  color: #ffffff;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.zz.active{
+  width: 250px;
+  padding-left: 25px;
+  transition: all 0.5s ease;
+}
+
+.input.active{
+  width: 98%;
+  padding-left: 5px;
+  transition: all 0.5s 0.8s ease;
+}
+
+input::placeholder {
+  color: #fff;
+}
+
+
+
+
+
+
+</style>
+
+<script type="text/javascript">
+
+  $(document).ready(function(){
+
+  $(".fa-search").click(function(){
+    $(".zz, .input").toggleClass("active");
+    $("input[type='text']").focus();
+  });
+
+});
+
+</script>

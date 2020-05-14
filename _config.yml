@@ -2,7 +2,7 @@
 name: 'WakeHustle'
 title: 'Wake, hustle and win.'
 description: 'Wake, hustle and win.'
-logo: 'assets/images/logo.png' 
+logo: 'assets/images/logo.png'
 logogrey: 'assets/images/logo_grey.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -13,6 +13,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 
 include: ["_pages"]
+include: ['.htaccess']
 permalink: /:title/
 
 # Plugins
