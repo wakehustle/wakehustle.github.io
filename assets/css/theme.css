@@ -278,7 +278,7 @@ a.text-dark:hover {
 }
 
 .bd-search:hover{
-	transform: scale(1.2);
+	/* transform: scale(1.2); */
 	color: #03a87c;
 	transition: transform .5s ease;
 
