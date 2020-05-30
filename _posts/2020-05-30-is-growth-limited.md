@@ -10,8 +10,8 @@ categories:
 - deep-dive
 ---
 
-Short answer, Yes.
-But the long answer is No!
+Short answer? Yes.<br>
+But the long answer is No!<br>
 How Come? Let's see.
 In 1958 when the whole world was in the race of supersonic transport, Boeing built Boeing 707 with the max flying speed of 608 mph and guess what is the max speed of the latest Boeing's Flagship in that domain?
 Any Ideas?
