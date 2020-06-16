@@ -1,10 +1,11 @@
 ---
-title: Is Growth Limited?
+title: Is Growth Limited after 2020?
 meta: Is growth limited in 2020?
 image: assets/images/boeing.PNG
 author: piyush
 tags:
 - featured
+- sticky
 categories:
 - Growth
 - deep-dive
