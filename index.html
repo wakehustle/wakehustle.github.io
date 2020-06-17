@@ -36,7 +36,8 @@ description: "Wake, hustle and win!"
                 {% for category in latest_post.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
-                </span>·{% include meta-read-time.html %}
+                </span>
+                <!-- ·{{ site.baseurl }}/{{ site.blogs }}{{ post.content | size }}{% include meta-read-time.html %} -->
         </small>
         <small class="text-muted">
             {{ latest_post.date | date: '%b %d, %Y' }}
@@ -67,7 +68,8 @@ description: "Wake, hustle and win!"
                         {% for category in second_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
-                        </span>·{% include meta-read-time.html %}
+                        </span>
+                        <!-- ·{% include meta-read-time.html %} -->
                     </small>
                     <small class="text-muted">
                         {{ second_post.date | date: '%b %d, %Y' }}
@@ -94,7 +96,8 @@ description: "Wake, hustle and win!"
                         {% for category in third_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
-                        </span>·{% include meta-read-time.html %}
+                        </span>
+                        <!-- ·{% include meta-read-time.html %} -->
                     </small>
                     <small class="text-muted">
                         {{ third_post.date | date: '%b %d, %Y' }}
@@ -121,7 +124,8 @@ description: "Wake, hustle and win!"
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
-                        </span>·{% include meta-read-time.html %}
+                        </span>
+                        <!-- ·{% include meta-read-time.html %} -->
                     </small>
                     <small class="text-muted">
                         {{ fourth_post.date | date: '%b %d, %Y' }}
