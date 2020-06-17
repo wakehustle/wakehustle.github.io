@@ -2,8 +2,8 @@
 title: 'Boom To Gloom: How Indian Multiplexes Plan To Rebound'
 image: https://specials-images.forbesimg.com/imageserve/5ee333f43ead41000619a15f/960x0.jpg?fit=scale
 categories:
-- business,
 - trending
+- business
 author: piyush
 tags:
 - featured
