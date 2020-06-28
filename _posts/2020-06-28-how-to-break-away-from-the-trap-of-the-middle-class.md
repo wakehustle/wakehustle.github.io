@@ -87,3 +87,6 @@ As Chris Hunter, Editor-in-Chief, at Bonner & Partners explains, “You must get
 “Accumulating capital is the best way to achieve what Bill calls “financial escape velocity. Put simply, “financial escape velocity” is the point at which you no longer rely on wage income to live the life you want to lead. But to achieve it, you have to break through what our publisher (and Bill’s eldest son), Will Bonner, calls the “invisible barrier” to wealth.
 
 “Stock picking alone won’t make you rich. Depending on what stage you’re at in your wealth building, you’ll want to learn about the importance of asset allocation, stop losses, and position sizing. Purely focusing on stock picking alone is, frankly, a path to the poor house,” concludes Hunter.
+
+
+via: earlytorise
