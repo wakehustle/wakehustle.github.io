@@ -4,8 +4,8 @@ meta: Is growth limited in 2020?
 image: assets/images/boeing.PNG
 author: piyush
 tags:
-- featured
 - sticky
+- featured
 categories:
 - Growth
 - deep-dive
