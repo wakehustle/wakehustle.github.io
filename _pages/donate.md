@@ -9,5 +9,8 @@ You have my permission to use the free items I develop in your personal, commerc
 
 Thank you so much!
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wake" data-color="#FF5F5F" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-id="wake" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wake" data-color="#4affd7" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+
+<button src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-backdrop="static" data-keyboard="false" data-target="#bmc-payment-widget-modal" data-toggle="modal" onclick="setOneTime();setPlanchosenVar('onetime');" class="common-payment-btn av-heavy color-fff text-fs-16 mg-l-12 xs-text-fs-14 xs-mg-l-8 show-on-desk">
+Support
+</button>
